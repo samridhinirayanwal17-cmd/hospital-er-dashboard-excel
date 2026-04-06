@@ -2,6 +2,10 @@
 Hospital Emergency Room Dashboard built using Excel, Power Query, Power Pivot.
 # Hospital Emergency Room Dashboard
 
+# Dashboard Preview
+![Dashboard](dashboard.png)
+
+
 ## Project Overview
 This project is an interactive Hospital Emergency Room Dashboard built in Excel.
 
@@ -17,5 +21,5 @@ This project is an interactive Hospital Emergency Room Dashboard built in Excel.
 - Department Referral
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+
 
