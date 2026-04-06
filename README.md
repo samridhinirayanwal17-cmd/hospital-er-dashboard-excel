@@ -17,3 +17,5 @@ This project is an interactive Hospital Emergency Room Dashboard built in Excel.
 - Department Referral
 
 ## Dashboard Preview
+![Dashboard](dashboard.png)
+
